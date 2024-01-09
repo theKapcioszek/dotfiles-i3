@@ -1,0 +1,40 @@
+! special
+*.foreground:   #ddd125
+*.background:   #000000
+*.cursorColor:  #007aff
+
+! black
+*.color0:       #151515
+*.color8:       #696969
+
+! red
+*.color1:       #02d7f2
+*.color9:       #007aff
+
+! green
+*.color2:       #a6e25f
+*.color10:      #a6e179
+
+! yellow
+*.color3:       #f8e578
+*.color11:      #ffdf6b
+
+! blue
+*.color4:       #c64848
+*.color12:      #ff1111
+
+! magenta
+*.color5:       #e85b92
+*.color13:      #bb5d79
+
+! cyan
+*.color6:       #5f868f
+*.color14:      #87a8af
+
+! white
+*.color7:       #d5f1f2
+*.color15:      #e2f1f6
+
+
+*.font:	Liberation Mono:pixelsize=20:antialias=true:autohint=true;
+*.alpha: 0.7

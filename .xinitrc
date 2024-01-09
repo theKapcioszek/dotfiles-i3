@@ -1,0 +1,1 @@
+feh --bg-scale /home/kapcioszek/Obrazy/Tapety/silverhand.jpg & xrdb /home/kapcioszek/.Xresources & xrandr --auto & picom --experimental-backends --config /home/kapcioszek/.config/picom/config.conf & exec i3
