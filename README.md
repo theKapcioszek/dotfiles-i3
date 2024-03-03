@@ -13,7 +13,7 @@ Dotfiles for my i3 rice
 
 It is a very simple config, nothing fancy, but I like it and I am proud of it.
 
-[My wallpaper folder)](https://www.dropbox.com/scl/fo/s8p5yrz9um2axcrx5ajws/h?rlkey=pysbqyjrbrxxazervyu45q901&dl=0)
+[My wallpaper folder](https://www.dropbox.com/scl/fo/s8p5yrz9um2axcrx5ajws/h?rlkey=pysbqyjrbrxxazervyu45q901&dl=0)  
 (I found almost all wallpapers online. I do not claim credit to them.)
 
 <p align=center>
