@@ -10,6 +10,7 @@ Dotfiles for my i3 rice
 - **Compositor**: [Picom](https://github.com/jonaburg/picom)
 - **Screenshots**: [Flameshot](https://flameshot.org/)
 - **System fetch**: [Neofetch](https://github.com/dylanaraps/neofetch)
+- **Magifying Glass App Thing**: [boomer](https://github.com/tsoding/boomer)  
 
 It is a very simple config, nothing fancy, but I like it and I am proud of it.
 

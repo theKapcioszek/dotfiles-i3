@@ -56,6 +56,10 @@ bindsym Mod1+Right exec brightnessctl set +10%
 
 bindsym Shift+$mod+s exec flameshot gui
 
+#zoom
+
+bindsym Shift+$mod+f exec boomer
+
 # Use Mouse+$mod to drag floating windows to their wanted position
 floating_modifier $mod
 
